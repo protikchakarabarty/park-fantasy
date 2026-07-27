@@ -53,7 +53,7 @@ src/
 ```
 ## 🌐 Live Demo
 
-Coming soon...
+https://vercel.com/protikchakarabartys-projects/park-fantasy
 
 ## 👤 Author
 
